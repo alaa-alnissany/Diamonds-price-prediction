@@ -6,7 +6,7 @@ I used multi algorithms in Exploratory Data Analysis (EDA):
   2. Adding new features.
   3. Feature selection using Kbest based on the Chi_square test, using some regression models, information Gain, correlation..etc.
   4. Analyse features' relation with the price columns.
-  5. Remove all the outliers using the Interquartile range (IQR) roll.
+  5. Remove all the outliers using the Interquartile range (IQR).
   
 Then, the train/test sets were splited using stratified sampling depending on the most important values. 
 Then find the best combination of algorithms to achieve high performance.
